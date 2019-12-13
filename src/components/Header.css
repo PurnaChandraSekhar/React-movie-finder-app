@@ -1,0 +1,9 @@
+.headerContainer {
+    height: 10vh;
+    grid-column: 1/-1;
+
+    display: grid;
+    align-items: center;
+    background-image: linear-gradient(90deg, #ff9966, #ff5e62);
+    padding: 0 10rem;
+}
